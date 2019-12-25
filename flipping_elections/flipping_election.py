@@ -1,5 +1,11 @@
 #How close would the election result 'flip'? 
 
+'''
+Flipping election is a solution to the Knapsack problem 
+that pinpoints how close an election is by shuffling voters around.
+
+'''
+
 #1st Step: creating object class 'State'
 class State():
     """
