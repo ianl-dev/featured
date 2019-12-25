@@ -1,5 +1,10 @@
 #Which strategy is the best?
 
+'''
+Modern_blackjack is a mini-game for Blackjack strategists in Python.
+
+'''
+
 import random
 import matplotlib.pyplot as plt
 import scipy.stats as stats
