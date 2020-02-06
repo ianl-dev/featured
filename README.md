@@ -1,12 +1,11 @@
-# rockit
+# Welcome
+Hello, 
 
-Hey friend,
+Thanks for stopping by. Here, you'll find three of my programming projects in python. The first project, Flipping Election, explores how close a presidential election is by treating the election as a knapsack problem to be optimized. The second project, Modern Blackjack, provides a text-based approach to playing blackjack. Lastly, Game of Go is an on-going effort to building a ML-trained Go bot. 
 
-Thanks for stopping by. In this repository, you'll find my projects on programming. I want to share my work here because, back in high school, I had to re-create my first game on Processing from scratch because I forgot to back up my code. Ironically, it was an RPG that let players re-live their high school life (in my case, re-writing most of my codes). I learned my lesson the hard way and have since decided to post my future projects in a safer place, like Github!
 
-However, that idea didn't really come together till now, after my first semester at MIT. Now that I have gotten all my stars on Codingbat and passed some levels on the Python Challenge, I felt more confident to share my work with you. These projects were critical to my growth as a programmer, and I hope you'll enjoy reading through them.
+These projects are critical to my growth as a programmer, and I hope you'll enjoy your stay. 
 
-Warm regards,
 
+Warm regards, 
 Ian
-
